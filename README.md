@@ -9,7 +9,6 @@ The repository contains original programming assignments, quiz design, reference
 
 ### Teaching Assistantship (Spring 2025)
 
-**Institution:** Shiraz University 
 
 **Course:** Artificial Intelligence (Undergraduate Level)  
 
