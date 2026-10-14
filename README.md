@@ -208,5 +208,4 @@ Please do not submit these materials as coursework in academic courses.
 
 ## Author
 
-**Hannah Fathi**
-
+**Hannah Fathi** : Computer Vision · Medical AI · Representation Learning · Explainable AI · Foundation Models
